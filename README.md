@@ -24,7 +24,7 @@ composer install
 
 ## running tests
 ```bash
-phpunit tests/ArrayValueFinderTest.php
+vendor/bin/phpunit tests/ArrayValueFinderTest.php
 ```
 
 ## running script
