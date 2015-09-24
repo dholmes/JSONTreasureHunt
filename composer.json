@@ -1,0 +1,12 @@
+{
+    "require": {
+        "phpunit/phpunit": "^4.8",
+        "league/climate": "^3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "IssueTwentyOne\\": "src/",
+            "IssueTwentyOne\\Tests\\": "tests/"
+        }
+    }
+}
