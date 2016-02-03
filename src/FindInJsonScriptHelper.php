@@ -18,7 +18,7 @@ use League\CLImate\CLImate;
  * @package IssueTwentyOne
  * @author Dan Holmes <daniel.holmes@gmail.com>
  */
-class FindInJsonScriptHelpercat
+class FindInJsonScriptHelper
 {
     /**
      * cli wrapper object that handles working with CLI boundry
